@@ -167,6 +167,11 @@ h1 {
     line-height: 1.25rem;
 }
 
+.projeto-link {
+    text-decoration: none;
+    color: var(--claro);
+}
+
 .caixa-texto-projeto {
     padding: 1.5rem;
 }
